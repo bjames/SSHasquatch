@@ -1,0 +1,8 @@
+# ignore db, log, and key files
+.*\.key
+.*\.log
+.*\.db
+# ignore venv directory
+venv/
+# ignore __pycache__ directory
+__pycache__/
